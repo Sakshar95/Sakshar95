@@ -1,68 +1,40 @@
-# 👋 Hi, I'm Sakshar Bhardwaj
+# Hi, I'm Sakshar Bhardwaj 👋
 
-🚀 Aspiring Cloud Data Engineer (AWS Focused) | Python | SQL | Data Pipelines  
-🎓 MS in Information Technology & Analytics  
+**Data Scientist & Data Engineer** · ~4 years across financial services and healthcare
+Python · SQL · Machine Learning · AWS Data Pipelines
 
----
-
-## 🧠 About Me
-
-I’m transitioning into Cloud Data Engineering with a focus on building scalable and production-ready data systems using AWS.
-
-With a strong background in analytics, SQL, and Python, I’m developing hands-on expertise in data pipelines, cloud infrastructure, and workflow automation.
-
-Currently focused on strengthening my skills in:
-- ETL / ELT pipeline design
-- Data lake and warehouse architectures
-- Cloud-based data workflows
-- Infrastructure fundamentals
-- Writing clean, maintainable data engineering code
+🎓 M.S. Information Technology & Analytics, Rutgers University (May 2026)
+📍 Jersey City, NJ
 
 ---
 
-## ☁️ Learning & Technical Stack
+## About Me
 
-**Languages**
-- Python
-- SQL
+I build ML models and the pipelines that feed them. My work sits where data engineering meets data science: getting messy, high-volume data into reliable shape, then turning it into models and analysis that business and client teams actually use.
 
-**Cloud (AWS Focus)**
-- Amazon S3
-- AWS Glue
-- AWS Lambda
-- Amazon Redshift
-- IAM
-- EC2
-
-**Data Engineering Concepts**
-- ETL / ELT
-- Data Modeling
-- Data Warehousing
-- Data Lakes
-- Workflow Orchestration
-
-**Tools**
-- Git & GitHub
-- Docker (learning)
-- Linux / Shell
-- VS Code
+- 💳 **Capital One**: Built XGBoost credit-risk and propensity models, with SHAP for explainability and customer segmentation. Started in the branch, so I know the products and the customers behind the data.
+- 🏥 **Cigna**: Built clinical NLP pipelines to extract structure from unstructured healthcare text.
 
 ---
 
-## 📈 Current Focus
+## Featured Project
 
-- Building a strong foundation in Cloud Data Engineering
-- Practicing end-to-end data workflow implementation
-- Strengthening system design thinking
-- Preparing for real-world production data environments
+### 🔍 [Client Usage Anomaly Detection](https://github.com/Sakshar95/client-usage-anomaly-detection)
+Detects unusual shifts in client product usage so account teams can spot churn risk or expansion opportunities early. Built in Python/pandas end to end: data prep, feature engineering, anomaly scoring, and interpretable output for non-technical stakeholders.
 
 ---
 
-## 📫 Connect With Me
+## Toolkit
 
-📧 Email: sakshar.bhardwaj95@gmail.com  
-💼 LinkedIn: linkedin.com/in/sakshar-bhardwaj-8838b617a
+| Area | Tools |
+|---|---|
+| **Languages** | Python (pandas, NumPy, scikit-learn), SQL |
+| **Modeling** | XGBoost, Random Forest, SHAP, A/B testing, NLP |
+| **Data Engineering** | Airflow, ETL/ELT pipelines, AWS |
+| **Analysis & Viz** | Jupyter, Tableau |
 
 ---
 
-⚡ Building my path toward becoming a production-ready Cloud Data Engineer.
+## Connect
+
+🌐 [Portfolio](https://sakshar95.github.io/sakshar-portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/sakshar-bhardwaj-8838b617a)
